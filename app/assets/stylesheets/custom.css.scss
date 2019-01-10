@@ -7,3 +7,14 @@
 .chatcolor {
     color: #ff4000;
 }
+
+#messages {
+    height: 15em;
+    overflow: auto;
+}
+
+.input {
+    button {
+        display: none;
+    }
+}
